@@ -1,8 +1,6 @@
 ## Yin Yin Teo
 
-🎓 Master's student in Information and Data Science at UC Berkeley.
-
-### Education
+🎓 Education
 - Master's student in Information and Data Science at UC Berkeley (Expected Graduation: Dec 2023)
 - B.A. in Data Science with Honors
 

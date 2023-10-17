@@ -13,10 +13,6 @@
 - Certification: Recommendation System with Python, ML & AI; Advanced Python: Databases; SQL Programming
 
 💻 Experience
-- Data Analyst at CourseKey
-  - Built a robust analytics framework.
-  - Integrated diverse data sources.
-  - Extracted actionable insights using Python and SQL.
 - Quantitative Analytics Intern, Wells Fargo (Jun 2023 - Aug 2023)
   - Collaborated with the AI/ML for SDI development team.
   - Developed machine learning algorithms for refining financial translation labels.
@@ -46,11 +42,9 @@
 
 🌟 Passion
 - Passionate about transforming data into meaningful narratives.
-- From predicting student retention with ML to utilizing GPT for notes.
 
 🔍 Exploration
 - Always exploring new data methodologies and open to collaborations.
 
 🔗 Connect
-- Dive into my work at [sophiechance.com](sophiechance.com) or explore my repositories below.
 - Connect with me on [LinkedIn](linkedin.com/in/yourprofile) or send me an [email](mailto:teoyinyin@berkeley.edu).

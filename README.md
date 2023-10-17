@@ -47,4 +47,4 @@
 - Always exploring new data methodologies and open to collaborations.
 
 🔗 Connect
-- Connect with me on [LinkedIn](linkedin.com/in/yourprofile) or send me an [email](mailto:teoyinyin@berkeley.edu).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/teoyinyin) or send me an [email](mailto:teoyinyin@berkeley.edu).

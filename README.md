@@ -12,18 +12,10 @@
 
 💻 Experience
 - Quantitative Analytics Intern, Wells Fargo (Jun 2023 - Aug 2023)
-  - Collaborated with the AI/ML for SDI development team.
-  - Developed machine learning algorithms for refining financial translation labels.
 - Data Scientist Intern, Applied Materials (May 2022 - Aug 2022)
-  - Led the Knowledge Assist Project to improve NLP/text mining techniques.
-  - Built predictive models for classifying textual diagnostics.
 - Data Consultant, Grocery Outlet Holding Corp (Jan 2022 - May 2022)
-  - Designed a deep learning computer vision model.
 - Marketing Intern, Applied Materials (May 2021 - Aug 2021)
-  - Spearheaded the Spare Parts Forecasting Project.
-  - Worked on a Text Mining Project.
 - Data Consultant, by Humankind Inc. (Apr 2021 - Jun 2021)
-  - Analyzed customer feedback on e-commerce products using NLP and sentiment analysis.
 
 📂 Projects
 - San Francisco New Housing Development Outlook (UC Berkeley School of Information)
